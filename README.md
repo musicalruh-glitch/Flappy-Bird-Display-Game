@@ -5,4 +5,4 @@ I built a hand held game, the in game name being  "Flappy Bird Soul." The game i
 
 <img width="938" height="711" alt="Screenshot 2026-10-28 222100" src="https://github.com/user-attachments/assets/ddef6bbd-2d6a-45ff-9322-fce8d9b9ac99" />
 
-###**How it works**
+### **How it works**
