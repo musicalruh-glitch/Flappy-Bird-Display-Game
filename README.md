@@ -40,7 +40,7 @@ In Halflife I was told to add all the materials I would be using including anyth
 | --- | --- | --- | --- | --- | --- |
 | **Custom PCB** (Fabricated circuit board) | 1 | blank | blank | JLCPCB | blank
 
-
+*Use production folder to drag and drop in JLCPCB to order, and change shipping to Global Standard Direct Line
 * **Total Tax & Shipping for the whole order:** blank
 
 ---
