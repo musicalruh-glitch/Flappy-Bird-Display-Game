@@ -6,7 +6,7 @@ I built a hand held game, the in game name being  "Flappy Bird Soul." The game i
 
 ---
 
-[insert image 3-d viewer here]
+<img width="931" height="707" alt="Screenshot 2026-10-29 234817" src="https://github.com/user-attachments/assets/14b04497-f3d1-4114-94bd-ae5dda4778b8" />
 
 ---
 
@@ -24,8 +24,8 @@ Usually for games like Flappy Bird there is no way to win the game (as far as I 
 
 ---
 
-<img width="1919" height="1027" alt="Screenshot 2026-10-28 222138" src="https://github.com/user-attachments/assets/6dfe43c5-5d0e-45a1-b880-3b0b44648fb0" />
-<img width="1919" height="1031" alt="Screenshot 2026-10-28 222030" src="https://github.com/user-attachments/assets/5578e4d1-a7fb-4381-8010-384af7aa9f46" />
+<img width="1919" height="1034" alt="Screenshot 2026-10-29 234835" src="https://github.com/user-attachments/assets/b1ece748-0c1d-4a4e-bba0-9dbd921d9029" />
+<img width="1919" height="1027" alt="Screenshot 2026-10-28 222138" src="https://github.com/user-attachments/assets/08a68cd5-fba3-4496-aa36-85c40d85e751" />
 
 ---
 
