@@ -24,6 +24,11 @@ Usually for games like Flappy Bird there is no way to win the game (as far as I 
 
 ---
 
+<img width="1919" height="1027" alt="Screenshot 2026-10-28 222138" src="https://github.com/user-attachments/assets/6dfe43c5-5d0e-45a1-b880-3b0b44648fb0" />
+<img width="1919" height="1031" alt="Screenshot 2026-10-28 222030" src="https://github.com/user-attachments/assets/5578e4d1-a7fb-4381-8010-384af7aa9f46" />
+
+---
+
 ### **!!IMPORTANT FOR BILL OF MATERIALS!!
 In Halflife I was told to add all the materials I would be using including anything I already own at $0, but Halflife requires everything added to be a minimum of $0.01 so everything listed to be $0.01 are things I already have!! Look at the BOM below for instructions for the custom PCB, the rest is basically a repeat of what's written in the Halflife BOM. FOR THE CUSTOM PCB PLEASE CHANGE SHIPPING TO GLOBAL STANDARD DIRECT LINE AND CHANGE THE SURFACE FINISH FROM Hasl (with lead) TO LeadFree HASL.**
 
