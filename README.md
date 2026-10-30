@@ -36,6 +36,6 @@ In Halflife I was told to add all the materials I would be using including anyth
 | **Custom PCB** (Fabricated circuit board) | 1 | blank | blank | JLCPCB | blank
 
 
-* **Total Tax & Shipping for the whole order:** $17.69
+* **Total Tax & Shipping for the whole order:** blank
 
 ---
