@@ -38,8 +38,8 @@ In Halflife I was told to add all the materials I would be using including anyth
 
 | Part / Description | Qty | Unit Price | Total Price | Vendor | Link |
 | --- | --- | --- | --- | --- | --- |
-| **Custom PCB** (Fabricated circuit board) | 1 | $5.20 | $5.20 | JLCPCB | [blank](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010)
-| **Custom PCB** (Fabricated circuit board) | 1 | $5.20 | $5.20 | JLCPCB | [blank](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010)
+| **Custom PCB** (Fabricated circuit board) | 1 | $5.20 | $5.20 | JLCPCB | https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
+| **Custom PCB** (Fabricated circuit board) | 1 | $5.20 | $5.20 | JLCPCB | https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
 
 *Use gerber files to drag and drop in JLCPCB to order, and change shipping to Global Standard Direct Line
 * **Total Tax & Shipping for the whole order:** blank
