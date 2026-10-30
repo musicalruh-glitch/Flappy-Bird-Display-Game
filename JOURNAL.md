@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/vie2h0xkg1lmjh3gsxmybpzn)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> I'm going to learn how to build my own display and connect it to a PCB and some code or something! Probably a Flappy Bird Game. (Will edit this later)..
+> I built a hand held game, the in game name being  "Flappy Bird Soul." The game is inspired by Undertale, (like all my other Half Life projects) and it was originally supposed to be a Flappy Bird game, hence the name but it's inspired by the attack patterns in game Undertale, sharing the same sprites and music. All credits for sprites, attack patterns, style, and music go to Toby Fox, this product is not for commercial use, it's for my own leisure.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
